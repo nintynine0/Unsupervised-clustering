@@ -52,6 +52,7 @@ Email: yanlan@mail.ustc.edu.cn
 (2) [config.py]
 
 station_list if there are more than 1 station
+
 the t array and f array of your spectrograms (copy them from the print of build_catalog.py)
 
 (3) [AutoEncoder.py]
